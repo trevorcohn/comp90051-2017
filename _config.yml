@@ -1,0 +1,21 @@
+exclude: ['README']
+timezone: Australia/Eastern
+lectures:
+   -
+    date: 2017-2-28
+    title: Introduction 
+    slides: 
+      - blah1.pdf
+    reading:
+      - some reading
+    who: trevor
+    show: 1
+   -
+    date: 2017-3-1
+    title: Something else
+    slides: blah2.pdf
+    reading:
+      - some more reading
+    notebook: a_notebook.ipynb
+    who: andrey
+    show: 1
