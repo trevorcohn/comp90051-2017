@@ -17,8 +17,8 @@ workshops:
 ---
 ## Workshops
 
-Workshop exercises are shown below, and will be updated to contain the materials for each week's classes. Note that workshops begin in week
-2.  All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
+Workshop exercises are shown below, and will be updated to contain the materials for each week's classes. Note that workshops begin in week 2.  
+All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
 <p>
 
 <table class="display">

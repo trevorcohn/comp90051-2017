@@ -112,6 +112,7 @@ lectures:
 ## Syllabus
 
 We'll put the lecture slides in the week that we cover the material, as well as pointers to the required reading. 
+
 All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
 <p>
 
