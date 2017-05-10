@@ -1,21 +1,94 @@
-exclude: ['README']
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: COMP90051 
+email: trevor.cohn@unimelb.edu.au
+description: > # this means to ignore newlines until "baseurl:"
+  Statistical Machine Learning at the University of Melbourne S2 2017. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 timezone: Australia/Eastern
+
 lectures:
    -
     date: 2017-2-28
-    title: Introduction 
-    slides: 
-      - blah1.pdf
+    title: Introduction and Preprocessing
+    slides:
+      - WSTA_L1a_introduction.pdf
+      - WSTA_L1b_preprocessing.pdf
     reading:
-      - some reading
-    who: trevor
+      - <a href="https://web.stanford.edu/~jurafsky/slp3/2.pdf">JM3 Ch. 2</a>
+    notebook: WSTA_N1B_preprocessing.ipynb
+    who: julian
     show: 1
    -
     date: 2017-3-1
-    title: Something else
-    slides: blah2.pdf
+    title: Text classification
+    slides: WSTA_L2_text_classification.pdf
     reading:
-      - some more reading
-    notebook: a_notebook.ipynb
-    who: andrey
+      - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">JM3 Ch. 6</a>, <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">JM3
+        Ch. 7</a>
+    notebook: WSTA_N2_text_classification.ipynb
+    who: julian
     show: 1
+   -
+    date: 2017-3-3
+    title: Python introduction (optional)
+    notebook:
+        - Python-intro.ipynb
+        - words
+    who: jeremy
+    show: 1
+   -
+    date: 2017-3-6
+    title: "Workshop on preprocessing and text classification"
+    type: workshop
+    worksheet:
+        - workshop-02.pdf
+        - solutions-02.pdf
+    who: tutors
+    show: 1
+   -
+    date: 2017-3-7
+    title: Part of Speech Tagging
+    reading: JM2 Ch. 5.1-5.4,5.6-5.8
+    slides: WSTA_L3_part_of_speech_tagging.pdf
+    notebook: WSTA_N3_part_of_speech_tagging.ipynb
+    who: julian
+    show: 1
+   -
+    date: 2017-3-8
+    title: Probablisitic Sequence Modelling
+    slides: WSTA_L4_probabilistic_sequence_models.pdf
+    notebook: WSTA_N4_hidden_markov_models.ipynb
+    reading:
+        - JM2 Ch. 6
+        - Or alternatively <a href="http://cognet.mit.edu.ezp.lib.unimelb.edu.au/book/foundations-of-statistical-natural-language-processing">MS chapters 9 (9.1-9.2, 9.3.2) &amp; 10 (10.1-10.2)</a>
+        - Advanced (just for fun) <a href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf">Rabiner's HMM tutorial</a>
+    who: trevor
+    show: 1
+
