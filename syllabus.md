@@ -113,6 +113,8 @@ lectures:
 
 We'll put the lecture slides in the week that we cover the material, as well as pointers to the required reading. 
 
+Lectures are on Tuesdays and Thursdays, as described in the <a href="https://sws.unimelb.edu.au/2017/Reports/List.aspx?objects=COMP90051&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list">timetable</a>. Note that workshops will run from week 2 until the end of semester. There will also be an office hour each week, run immediately after the Thursday lecture, 1-2pm in DMD 7.03.
+
 All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
 <p>
 
