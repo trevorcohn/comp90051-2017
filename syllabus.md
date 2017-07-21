@@ -25,86 +25,86 @@ lectures:
     title: Linear models, regularisation and logistic regression classifier
     who: andrey
    -
-    date: 2017-08-07
+    date: 2017-08-08
     title: Optimisation of loss functions and gradient methods
     who: andrey
    -
-    date: 2017-08-07
+    date: 2017-08-10
     title: Perceptron classifier
     who: andrey
    -
-    date: 2017-08-14
+    date: 2017-08-15
     title: Non-linear models, using basis functions and Artificial Neural Networks
     who: andrey
    -
-    date: 2017-08-14
+    date: 2017-08-17
     title: Artificial Neural Networks
     who: andrey
    -
-    date: 2017-08-21
+    date: 2017-08-22
     title: Support Vector Machines
     who: andrey
    -
-    date: 2017-08-21
+    date: 2017-08-24
     title: Support Vector Machines
     who: andrey
    -
-    date: 2017-08-28
+    date: 2017-08-29
     title: Semi-supervised learning and ensembles
     who: andrey
    -
-    date: 2017-08-28
+    date: 2017-08-31
     title: Midsemester test
     who: andrey
    -
-    date: 2017-09-04
+    date: 2017-09-05
     title: Unsupervised learning
     who: andrey
    -
-    date: 2017-09-04
+    date: 2017-09-07
     title: Unsupervised learning
     who: andrey
    -
-    date: 2017-09-11
+    date: 2017-09-12
     title: Dimensionality reduction, principal component analysis
     who: andrey
    -
-    date: 2017-09-11
+    date: 2017-09-14
     title: Multidimensional scaling, spectral clustering
     who: andrey
    -
-    date: 2017-09-18
+    date: 2017-09-19
     title: Bayesian fundamentals
     who: trevor
    -
-    date: 2017-09-18
+    date: 2017-09-21
     title: Bayesian inference with conjugate priors
     who: trevor
    -
     date: 2017-09-25
     title: Non-teaching week
    -
-    date: 2017-10-02
+    date: 2017-10-03
     title: Probabilistic graphical models, fundamentals
     who: trevor
    -
-    date: 2017-10-02
+    date: 2017-10-05
     title: Probabilistic graphical models, conditional independence 
     who: trevor
    -
-    date: 2017-10-09
+    date: 2017-10-10
     title: Probabilistic graphical models, inference
     who: trevor
    -
-    date: 2017-10-09
+    date: 2017-10-12
     title: Probabilistic graphical models, belief propagation
     who: trevor
    -
-    date: 2017-10-16
+    date: 2017-10-17
     title: Probabilistic graphical models, statistical inference and applications
     who: trevor
    -
-    date: 2017-10-16
+    date: 2017-10-19
     title: Subject review
     who: trevor
 ---
