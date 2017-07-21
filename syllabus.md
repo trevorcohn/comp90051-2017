@@ -5,23 +5,23 @@ date:   2017-05-10 11:21:00 +1000
 categories: schedule
 lectures:
    -
-    date: 2017-07-24
+    date: 2017-07-25
     title: Introduction 
     who: trevor
     slides: sample_slides.pdf
     show: 1
    -
-    date: 2017-07-24
+    date: 2017-07-27
     title: Probabilistic models and parameter fitting
     who: trevor
     slides: sample_slides2.pdf
     show: 0
    -
-    date: 2017-07-31
+    date: 2017-08-01
     title: Linear models, fundamentals and regression
     who: andrey
    -
-    date: 2017-07-31
+    date: 2017-08-03
     title: Linear models, regularisation and logistic regression classifier
     who: andrey
    -
