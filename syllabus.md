@@ -18,11 +18,11 @@ lectures:
     show: 0
    -
     date: 2017-08-01
-    title: Linear models, fundamentals and regression
+    title: Linear regression; Intro to regularisation
     who: andrey
    -
     date: 2017-08-03
-    title: Linear models, regularisation and logistic regression classifier
+    title: Logistic regression classifier; Basis expansion
     who: andrey
    -
     date: 2017-08-08
@@ -42,7 +42,7 @@ lectures:
     who: andrey
    -
     date: 2017-08-22
-    title: Support Vector Machines
+    title: Notes on linear algebra
     who: andrey
    -
     date: 2017-08-24
@@ -50,11 +50,11 @@ lectures:
     who: andrey
    -
     date: 2017-08-29
-    title: Semi-supervised learning and ensembles
+    title: Support Vector Machines
     who: andrey
    -
     date: 2017-08-31
-    title: Midsemester test
+    title: Kernel Methods
     who: andrey
    -
     date: 2017-09-05
