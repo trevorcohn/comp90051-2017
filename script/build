@@ -1,6 +1,0 @@
-#!/bin/sh
-
-set -e
-
-echo "Buidling the example site..."
-bundle exec jekyll build --source example
