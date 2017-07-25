@@ -1,8 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: lean
+layout: default
 ---
 See [syllabus](syllabus) for details of the subject syllabus and lecture schedule, 
 and [workshops](workshops) for the weekly worksheets.
+
+The [handbook entry](https://handbook.unimelb.edu.au/2017/subjects/comp90051) contains an overview.
+Lectures are on Tuesdays and Thursdays, as described in the [timetable](https://sws.unimelb.edu.au/2017/Reports/List.aspx?objects=COMP90051&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list). Note that workshops will run from week 2 until the end of semester. 
+Please sign up for a workshop, these start in week 2.
+
+There will also be an office hour each week, run immediately after the Thursday lecture, 1-2pm in DMD 7.03.

@@ -24,7 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 gems:
   - jekyll-feed
 exclude:
@@ -32,63 +33,4 @@ exclude:
   - Gemfile.lock
 
 timezone: Australia/Eastern
-
-lectures:
-   -
-    date: 2017-2-28
-    title: Introduction and Preprocessing
-    slides:
-      - WSTA_L1a_introduction.pdf
-      - WSTA_L1b_preprocessing.pdf
-    reading:
-      - <a href="https://web.stanford.edu/~jurafsky/slp3/2.pdf">JM3 Ch. 2</a>
-    notebook: WSTA_N1B_preprocessing.ipynb
-    who: julian
-    show: 1
-   -
-    date: 2017-3-1
-    title: Text classification
-    slides: WSTA_L2_text_classification.pdf
-    reading:
-      - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">JM3 Ch. 6</a>, <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">JM3
-        Ch. 7</a>
-    notebook: WSTA_N2_text_classification.ipynb
-    who: julian
-    show: 1
-   -
-    date: 2017-3-3
-    title: Python introduction (optional)
-    notebook:
-        - Python-intro.ipynb
-        - words
-    who: jeremy
-    show: 1
-   -
-    date: 2017-3-6
-    title: "Workshop on preprocessing and text classification"
-    type: workshop
-    worksheet:
-        - workshop-02.pdf
-        - solutions-02.pdf
-    who: tutors
-    show: 1
-   -
-    date: 2017-3-7
-    title: Part of Speech Tagging
-    reading: JM2 Ch. 5.1-5.4,5.6-5.8
-    slides: WSTA_L3_part_of_speech_tagging.pdf
-    notebook: WSTA_N3_part_of_speech_tagging.ipynb
-    who: julian
-    show: 1
-   -
-    date: 2017-3-8
-    title: Probablisitic Sequence Modelling
-    slides: WSTA_L4_probabilistic_sequence_models.pdf
-    notebook: WSTA_N4_hidden_markov_models.ipynb
-    reading:
-        - JM2 Ch. 6
-        - Or alternatively <a href="http://cognet.mit.edu.ezp.lib.unimelb.edu.au/book/foundations-of-statistical-natural-language-processing">MS chapters 9 (9.1-9.2, 9.3.2) &amp; 10 (10.1-10.2)</a>
-        - Advanced (just for fun) <a href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf">Rabiner's HMM tutorial</a>
-    who: trevor
-    show: 1
 

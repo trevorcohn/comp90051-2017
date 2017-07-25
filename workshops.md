@@ -1,24 +1,14 @@
 ---
-layout: lean
+layout: default
 title:  "Workshops"
 workshops:
    -
     date: 2017-07-24
     title: No workshops in week 1 
-   -
-    date: 2017-07-24
-    title: Blah
-    worksheet: sample.pdf
-    show: 1
-   -
-    date: 2017-07-31
-    title: Blah Blah
-    who: andrey
 ---
 ## Workshops
 
 Workshop exercises are shown below, and will be updated to contain the materials for each week's classes. Note that workshops begin in week 2.  
-All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
 <p>
 
 <table class="display">
@@ -29,9 +19,9 @@ All materials are Copyright 2017, The University of Melbourne, and should not be
 </colgroup>
 <thead>
 <tr>
-    <td>Week beg.</td>
-    <td>Topic</td>
-    <td>Materials</td>
+    <td><b>Week beg.</b></td>
+    <td><b>Topic</b></td>
+    <td><b>Materials</b></td>
 </tr>
 </thead>
 <tbody>
@@ -122,3 +112,5 @@ All materials are Copyright 2017, The University of Melbourne, and should not be
 {% endfor %}
 </tbody>
 </table>
+
+All materials Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.

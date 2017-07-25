@@ -1,21 +1,22 @@
 ---
-layout: lean
+layout: default
 title:  "Syllabus"
-date:   2017-05-10 11:21:00 +1000
 categories: schedule
 lectures:
    -
     date: 2017-07-25
-    title: Introduction 
+    title: Introduction; probability theory
     who: trevor
-    slides: sample_slides.pdf
+    slides: 01_intro_prob_theory.pdf
+    reading: Bishop 1.1-1.2
     show: 1
    -
     date: 2017-07-27
     title: Probabilistic models and parameter fitting
     who: trevor
-    slides: sample_slides2.pdf
-    show: 0
+    slides: 02_statistical_schools.pdf
+    reading: Bishop 2.1*, 2.3*; 1.2.3-1.2.4 (* = first 2 pages)
+    show: 1
    -
     date: 2017-08-01
     title: Linear regression; Intro to regularisation
@@ -112,10 +113,7 @@ lectures:
 ## Syllabus
 
 We'll put the lecture slides in the week that we cover the material, as well as pointers to the required reading. 
-
-Lectures are on Tuesdays and Thursdays, as described in the <a href="https://sws.unimelb.edu.au/2017/Reports/List.aspx?objects=COMP90051&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list">timetable</a>. Note that workshops will run from week 2 until the end of semester. There will also be an office hour each week, run immediately after the Thursday lecture, 1-2pm in DMD 7.03.
-
-All materials are Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
+Reading references to Bishop relate to the book *Pattern recognition and machine learning by Christopher M. Bishop, 2006.*
 <p>
 
 <table class="display">
@@ -126,9 +124,9 @@ All materials are Copyright 2017, The University of Melbourne, and should not be
 </colgroup>
 <thead>
 <tr>
-    <td>Date</td>
-    <td>Topic</td>
-    <td>Materials</td>
+    <td><b>Date</b></td>
+    <td><b>Topic</b></td>
+    <td><b>Materials</b></td>
 </tr>
 </thead>
 <tbody>
@@ -222,3 +220,5 @@ All materials are Copyright 2017, The University of Melbourne, and should not be
 {% endfor %}
 </tbody>
 </table>
+
+All materials Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
