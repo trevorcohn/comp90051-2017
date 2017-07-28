@@ -68,7 +68,7 @@ Workshop exercises are shown below, and will be updated to contain the materials
                 {% else %}
                     <br> &nbsp;
                 {% endif %}
-                <a href="../worksheets/{{ matter }}">{{ matter }}</a>
+                <a href="worksheets/{{ matter }}">{{ matter }}</a>
             {% endfor %}
             <br>
         {% endif %}
