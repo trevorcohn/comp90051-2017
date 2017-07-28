@@ -21,10 +21,16 @@ lectures:
     date: 2017-08-01
     title: Linear regression; Intro to regularisation
     who: andrey
+    slides: 03_linear_regression.pdf
+    reading: Bishop 3.1.1, 3.1.2, 3.1.4
+    show: 1
    -
     date: 2017-08-03
     title: Logistic regression classifier; Basis expansion
     who: andrey
+    slides: 04_logistic_regression.pdf
+    reading: Bishop 4.3.2, 3.1*
+    show: 1
    -
     date: 2017-08-08
     title: Optimisation of loss functions and gradient methods
