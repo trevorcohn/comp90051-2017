@@ -1,10 +1,19 @@
 ---
 layout: default
 title:  "Workshops"
-workshops:
+stuff:
    -
     date: 2017-07-24
     title: No workshops in week 1 
+    show: 1
+   -
+    date: 2017-07-31
+    title: Review of fundamentals (KNN, evaluation); getting started in python/numpy
+    worksheet:
+      - 2a_classification-KNN.ipynb
+      - 2b_performance_evaluation.ipynb
+      - spambase.data
+    show: 1
 ---
 ## Workshops
 
@@ -25,7 +34,7 @@ Workshop exercises are shown below, and will be updated to contain the materials
 </tr>
 </thead>
 <tbody>
-{% for lect in page.workshops %}
+{% for lect in page.stuff %}
 <tr>
   <td>
        {{ lect.date  | date: "%a %-d/%-m" }}
@@ -59,7 +68,7 @@ Workshop exercises are shown below, and will be updated to contain the materials
                 {% else %}
                     <br> &nbsp;
                 {% endif %}
-                <a href="workshops/{{ matter }}">{{ matter }}</a>
+                <a href="../worksheets/{{ matter }}">{{ matter }}</a>
             {% endfor %}
             <br>
         {% endif %}
