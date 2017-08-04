@@ -33,12 +33,18 @@ lectures:
     show: 1
    -
     date: 2017-08-08
-    title: Optimisation of loss functions and gradient methods
+    title: Iterative optimisation of loss functions; Model complexity and bias-variance analysis
     who: andrey
+    slides: 05_optim_regularisation.pdf
+    reading: Bishop 1.5.5, 3.2
+    show: 1
    -
     date: 2017-08-10
-    title: Perceptron classifier
+    title: Notes on vectors; Perceptron classifier
     who: andrey
+    slides: 06_vectors_perceptron.pdf
+    reading: Bishop 4.1.7
+    show: 1
    -
     date: 2017-08-15
     title: Non-linear models, using basis functions and Artificial Neural Networks
