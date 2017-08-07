@@ -16,6 +16,13 @@ stuff:
       - 2b_performance_evaluation_answers.ipynb
       - spambase.data
     show: 1
+   -
+    date: 2017-08-7
+    title: Linear and Polynomial Regression; Regularization
+    worksheet:
+      - 3a_linear_regression.ipynb
+      - 3b_polynomial_regression.ipynb
+    show: 1
 ---
 ## Workshops
 
