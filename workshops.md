@@ -12,6 +12,8 @@ stuff:
     worksheet:
       - 2a_classification-KNN.ipynb
       - 2b_performance_evaluation.ipynb
+      - 2a_classification-KNN_answers.ipynb
+      - 2b_performance_evaluation_answers.ipynb
       - spambase.data
     show: 1
 ---
