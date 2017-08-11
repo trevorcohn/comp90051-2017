@@ -29,7 +29,7 @@ stuff:
     worksheet:
       - 4a_logistic_regression.ipynb
       - 4b_perceptron.ipynb
-    show: 0
+    show: 1
 ---
 ## Workshops
 
