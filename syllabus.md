@@ -47,23 +47,29 @@ lectures:
     show: 1
    -
     date: 2017-08-15
-    title: Non-linear models, using basis functions and Artificial Neural Networks
-    who: andrey
-   -
-    date: 2017-08-17
     title: Artificial Neural Networks
     who: andrey
+    slides: 07_backpropagation.pdf
+    reading: Bishop 5.1, 5.2, 5.3
+    show: 1
+   -
+    date: 2017-08-17
+    title: Artificial Neural Networks (cont.)
+    who: andrey
+    slides: 08_convnet_autoenc.pdf
+    reading: Bishop 5.5.6
+    show: 1
    -
     date: 2017-08-22
-    title: Notes on linear algebra
+    title: Support Vector Machines
     who: andrey
    -
     date: 2017-08-24
-    title: Support Vector Machines
+    title: Support Vector Machines (cont.)
     who: andrey
    -
     date: 2017-08-29
-    title: Support Vector Machines
+    title: Additional topic
     who: andrey
    -
     date: 2017-08-31
