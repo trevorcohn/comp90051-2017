@@ -23,6 +23,13 @@ stuff:
       - 3a_linear_regression.ipynb
       - 3b_polynomial_regression.ipynb
     show: 1
+   -
+    date: 2017-08-14
+    title: Logistic Regression; Perceptron
+    worksheet:
+      - 4a_logistic_regression.ipynb
+      - 4b_perceptron.ipynb
+    show: 0
 ---
 ## Workshops
 
