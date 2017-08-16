@@ -22,6 +22,8 @@ stuff:
     worksheet:
       - 3a_linear_regression.ipynb
       - 3b_polynomial_regression.ipynb
+      - 3a_linear_regression-answers.ipynb
+      - 3b_polynomial_regression-answers.ipynb
     show: 1
    -
     date: 2017-08-14
