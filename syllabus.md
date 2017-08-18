@@ -63,14 +63,14 @@ lectures:
     date: 2017-08-22
     title: Support Vector Machines (hard margin)
     who: andrey
-	slides: 09_hard_margin_svm.pdf
+    slides: 09_hard_margin_svm.pdf
     reading: Bishop 7.1
     show: 1
    -
     date: 2017-08-24
     title: Support Vector Machines (soft margin)
     who: andrey
-	slides: 10_soft_margin_svm.pdf
+    slides: 10_soft_margin_svm.pdf
     reading: Bishop 7.1.1
     show: 1
    -
