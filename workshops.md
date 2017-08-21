@@ -32,6 +32,13 @@ stuff:
       - 4a_logistic_regression.ipynb
       - 4b_perceptron.ipynb
     show: 1
+   -
+    date: 2017-08-22
+    title: Artificial Neural Networks
+    worksheet:
+      - 5_artificial_neural_network.ipynb
+      - 5_ppt_BackPropagation.pdf
+    show: 1
 ---
 ## Workshops
 
