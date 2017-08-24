@@ -75,12 +75,18 @@ lectures:
     show: 1
    -
     date: 2017-08-29
-    title: Additional topic
-    who: andrey
-   -
-    date: 2017-08-31
     title: Kernel Methods
     who: andrey
+    slides: 11_kernel_methods.pdf
+    reading: Bishop 6.2
+    show: 1
+   -
+    date: 2017-08-31
+    title: Ensemble Learning; Interim Summary
+    who: andrey
+    slides: 12_ensemble_revision.pdf
+    reading: Bishop 14.2
+    show: 1
    -
     date: 2017-09-05
     title: Unsupervised learning
