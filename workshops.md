@@ -31,6 +31,7 @@ stuff:
     worksheet:
       - 4a_logistic_regression.ipynb
       - 4b_perceptron.ipynb
+      - 4b_perceptron_answers.ipynb
     show: 1
    -
     date: 2017-08-22
