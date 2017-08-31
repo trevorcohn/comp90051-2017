@@ -89,12 +89,18 @@ lectures:
     show: 1
    -
     date: 2017-09-05
-    title: Unsupervised learning
+    title: Unsupervised Learning; Clustering
     who: andrey
+    slides: 13_clustering_gmm.pdf
+    reading: Bishop 9.1, 9.2
+    show: 1
    -
     date: 2017-09-07
-    title: Unsupervised learning
+    title: Expectation Maximisation Algorithm
     who: andrey
+    slides: 14_em_algorithm.pdf
+    reading: Bishop 9.4, 9.2.2
+    show: 1
    -
     date: 2017-09-12
     title: Dimensionality reduction, principal component analysis
