@@ -38,7 +38,16 @@ stuff:
     title: Artificial Neural Networks
     worksheet:
       - 5_artificial_neural_network.ipynb
+      - 5_artificial_neural_network_answers.ipynb
       - 5_ppt_BackPropagation.pdf
+    show: 1
+   -
+    date: 2017-09-4
+    title: SVM and Random Forest Classifiers
+    worksheet:
+      - 7a_SVM.ipynb
+      - 7b_random_forest.ipynb
+      - cats_gender.csv
     show: 1
 ---
 ## Workshops
