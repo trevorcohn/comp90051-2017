@@ -103,12 +103,18 @@ lectures:
     show: 1
    -
     date: 2017-09-12
-    title: Dimensionality reduction, principal component analysis
+    title: Principal Component Analysis; Multidimensional Scaling
     who: andrey
+    slides: 15_dimred_pca_mds.pdf
+    reading: Bishop 12.1, 12.4.3, Hastie 14.8
+    show: 1
    -
     date: 2017-09-14
-    title: Multidimensional scaling, spectral clustering
+    title: Manifold Learning; Spectral clustering
     who: andrey
+    slides: 16_manifold_learning.pdf
+    reading: Bishop 12.4.3, Hastie 14.5.3, 14.9
+    show: 1
    -
     date: 2017-09-19
     title: Bayesian fundamentals
