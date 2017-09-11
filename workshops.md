@@ -49,6 +49,12 @@ stuff:
       - 7b_random_forest.ipynb
       - cats_gender.csv
     show: 1
+   -
+    date: 2017-09-11
+    title: Gaussian Mixture Models
+    worksheet:
+      - 8_GMM.ipynb
+    show: 1
 ---
 ## Workshops
 
