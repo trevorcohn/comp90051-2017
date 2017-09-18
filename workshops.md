@@ -54,6 +54,7 @@ stuff:
     title: Gaussian Mixture Models
     worksheet:
       - 8_GMM.ipynb
+      - 8_GMM-answers.ipynb
     show: 1
 ---
 ## Workshops
