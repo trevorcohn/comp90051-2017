@@ -117,12 +117,18 @@ lectures:
     show: 1
    -
     date: 2017-09-19
-    title: Bayesian fundamentals
+    title: Bayesian inference
     who: trevor
+    slides: 17_bayesian_inference.pdf
+    reading: Bishop 2.3.6, 4.4-4.5
+    show: 1
    -
     date: 2017-09-21
-    title: Bayesian inference with conjugate priors
+    title: Bayesian inference (cont.)
+    slides: 18_bayesian_classification.pdf
+    reading: Bishop 2.1, 3.3, 3.4
     who: trevor
+    show: 1
    -
     date: 2017-09-25
     title: Non-teaching week
