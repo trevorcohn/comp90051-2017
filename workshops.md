@@ -56,6 +56,12 @@ stuff:
       - 8_GMM.ipynb
       - 8_GMM-answers.ipynb
     show: 1
+   -
+    date: 2017-10-2
+    title: Bayesian Linear Regression
+    worksheet:
+      -  9_bayesian_linear_regression.ipynb
+    show: 1
 ---
 ## Workshops
 
