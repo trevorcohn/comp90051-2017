@@ -136,17 +136,21 @@ lectures:
     date: 2017-10-03
     title: Probabilistic graphical models, fundamentals
     who: trevor
+    slides: 21_pgm_basics.pdf
+    show: 1
    -
     date: 2017-10-05
-    title: Probabilistic graphical models, conditional independence 
+    title: Probabilistic graphical models, independence 
     who: trevor
+    slides: 22_pgm_indy.pdf
+    show: 1
    -
     date: 2017-10-10
-    title: Probabilistic graphical models, inference
-    who: trevor
+    title: Guest lecture (TBC)
+    who: ben
    -
     date: 2017-10-12
-    title: Probabilistic graphical models, belief propagation
+    title: Probabilistic graphical models, inference
     who: trevor
    -
     date: 2017-10-17
