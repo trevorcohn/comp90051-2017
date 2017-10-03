@@ -136,13 +136,15 @@ lectures:
     date: 2017-10-03
     title: Probabilistic graphical models, fundamentals
     who: trevor
-    slides: 21_pgm_basics.pdf
+    slides: 20_pgm_basics.pdf
+    reading: Bishop 8-8.3.1
     show: 1
    -
     date: 2017-10-05
     title: Probabilistic graphical models, independence 
     who: trevor
-    slides: 22_pgm_indy.pdf
+    slides: 21_pgm_indy.pdf
+    reading: Bishop 8.2-8.3.2
     show: 1
    -
     date: 2017-10-10
