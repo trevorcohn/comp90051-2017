@@ -58,7 +58,7 @@ stuff:
     show: 1
    -
     date: 2017-10-2
-    title: Bayesian Linear Regression
+    title: Bayesian Linear Regression (updated evidence part)
     worksheet:
       -  9_bayesian_linear_regression.ipynb
     show: 1
