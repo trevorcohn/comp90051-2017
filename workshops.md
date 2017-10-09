@@ -62,6 +62,11 @@ stuff:
     worksheet:
       -  9_bayesian_linear_regression.ipynb
     show: 1
+   -
+    date: 2017-10-10
+    title: Probabilistic Graphical Models 
+      -  10_PGMs_worksheet.pdf
+    show: 1
 ---
 ## Workshops
 
