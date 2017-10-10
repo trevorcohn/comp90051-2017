@@ -148,16 +148,17 @@ lectures:
     show: 1
    -
     date: 2017-10-10
-    title: Guest lecture (TBC)
-    who: ben
-   -
-    date: 2017-10-12
     title: Probabilistic graphical models, inference
     who: trevor
+    slides: 22_pgm_elimination.pdf
+    reading: Russell and Norvig (will upload chapter to LMS)
+    show: 1
    -
     date: 2017-10-17
-    title: Probabilistic graphical models, statistical inference and applications
+    title: Probabilistic graphical models, statistical inference 
     who: trevor
+    slides: 23_pgm_stat_infer.pdf
+    show: 1
    -
     date: 2017-10-19
     title: Subject review
