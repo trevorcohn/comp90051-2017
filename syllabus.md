@@ -151,7 +151,7 @@ lectures:
     title: Probabilistic graphical models, inference
     who: trevor
     slides: 22_pgm_elimination.pdf
-    reading: Russell and Norvig (will upload chapter to LMS)
+    reading: Russell and Norvig Chapter 14 (see "Reading" on LMS)
     show: 1
    -
     date: 2017-10-17
