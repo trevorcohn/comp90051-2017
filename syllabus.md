@@ -151,8 +151,7 @@ lectures:
     title: Probabilistic graphical models, inference
     who: trevor
     slides: 22_pgm_elimination.pdf
-    reading: Russell and Norvig Chapter 14 (see "Reading" on LMS);
-	or <a href="https://ebookcentral.proquest.com/lib/UNIMELB/reader.action?docID=3339490&ppg=745">Murphy 20.3 Elimination algorithm</a>
+    reading: Russell and Norvig Chapter 14 (see "Reading" on LMS) or Murphy 20.3
     show: 1
    -
     date: 2017-10-17
@@ -162,8 +161,7 @@ lectures:
 	in the reading/resources option.
     who: trevor
     slides: 23_pgm_stat_infer.pdf
-    reading: 
-	<a href="https://ebookcentral.proquest.com/lib/UNIMELB/reader.action?docID=3339490&ppg=389">Murphy 11.4.4 (more generally 11.3, 11.4 also useful)</a>
+    reading: Murphy 11.4.4 (generally dip into 11.3-11.4)
     show: 1
    -
     date: 2017-10-19
@@ -175,6 +173,7 @@ lectures:
 
 We'll put the lecture slides in the week that we cover the material, as well as pointers to the required reading. 
 Reading references to Bishop relate to the book *Pattern recognition and machine learning by Christopher M. Bishop, 2006.*
+Reading references to Murphy relate to the book <a href="https://ebookcentral.proquest.com/lib/UNIMELB/reader.action?docID=3339490&ppg=1">Machine Learning : A Probabilistic Perspective by Kevin Murphy, 2014;</a> available in electronic ebook form using the link. 
 <p>
 
 <table class="display">
