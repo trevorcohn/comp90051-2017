@@ -151,13 +151,19 @@ lectures:
     title: Probabilistic graphical models, inference
     who: trevor
     slides: 22_pgm_elimination.pdf
-    reading: Russell and Norvig Chapter 14 (see "Reading" on LMS)
+    reading: Russell and Norvig Chapter 14 (see "Reading" on LMS);
+	or <a href="https://ebookcentral.proquest.com/lib/UNIMELB/reader.action?docID=3339490&ppg=745">Murphy 20.3 Elimination algorithm</a>
     show: 1
    -
     date: 2017-10-17
-    title: Probabilistic graphical models, statistical inference 
+    title: 
+	Probabilistic graphical models, statistical inference.
+	Lecture cancelled, please listen to 2016 recording available under LMS
+	in the reading/resources option.
     who: trevor
     slides: 23_pgm_stat_infer.pdf
+    reading: 
+	<a href="https://ebookcentral.proquest.com/lib/UNIMELB/reader.action?docID=3339490&ppg=389">Murphy 11.4.4 (more generally 11.3, 11.4 also useful)</a>
     show: 1
    -
     date: 2017-10-19
