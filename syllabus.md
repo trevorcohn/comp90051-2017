@@ -154,12 +154,20 @@ lectures:
     reading: Russell and Norvig Chapter 14 (see "Reading" on LMS) or Murphy 20.3
     show: 1
    -
-    date: 2017-10-17
+    date: 2017-10-12
     title: Probabilistic graphical models, statistical inference.  Lecture cancelled, please listen to 2016 recording available under LMS in the reading/resources option.
     who: trevor
     slides: 23_pgm_stat_infer.pdf
     reading: Murphy 11.4.4 (generally dip into 11.3-11.4)
     show: 1
+   -
+    date: 2017-10-17
+    title: Probabilistic graphical models, hidden Markov models and message passing
+    who: trevor
+    slides: 24_pgm_message_passing.pdf
+    reading: Murphy 17 (mainly 17.4-17.5)
+    show: 1
+
    -
     date: 2017-10-19
     title: Subject review
