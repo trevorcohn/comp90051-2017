@@ -68,6 +68,7 @@ stuff:
     title: Probabilistic Graphical Models 
     worksheet:
       - 10_PGMs_worksheet.pdf
+      - 10_PGMs_worksheet_answers.pdf
     show: 1
 ---
 ## Workshops
