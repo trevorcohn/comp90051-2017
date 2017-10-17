@@ -70,6 +70,12 @@ stuff:
       - 10_PGMs_worksheet.pdf
       - 10_PGMs_worksheet_answers.pdf
     show: 1
+   -
+    date: 2017-10-17
+    title: Stan Modelling Language 
+    worksheet:
+      - 11_worksheet.pdf
+    show: 1
 ---
 ## Workshops
 
