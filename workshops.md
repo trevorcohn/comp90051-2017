@@ -184,4 +184,6 @@ Workshop exercises are shown below, and will be updated to contain the materials
 </tbody>
 </table>
 
+Slides from Yuan -> [[Download](https://yuan-li.github.io/comp90051-2017/slides/all.zip)]
+
 All materials Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
