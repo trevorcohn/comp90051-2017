@@ -171,7 +171,9 @@ lectures:
    -
     date: 2017-10-19
     title: Subject review
+    slides: 25_review.pdf
     who: trevor
+    show: 1
 ---
 
 ## Syllabus
