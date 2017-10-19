@@ -70,6 +70,12 @@ stuff:
       - 10_PGMs_worksheet.pdf
       - 10_PGMs_worksheet_answers.pdf
     show: 1
+   -
+    date: 2017-10-17
+    title: Stan Modelling Language 
+    worksheet:
+      - 11_worksheet.pdf
+    show: 1
 ---
 ## Workshops
 
@@ -177,5 +183,9 @@ Workshop exercises are shown below, and will be updated to contain the materials
 {% endfor %}
 </tbody>
 </table>
+
+Slides from Yuan -> [<a href="https://yuan-li.github.io/comp90051-2017/slides/all.zip">Download</a>]
+<br>
+<br>
 
 All materials Copyright 2017, The University of Melbourne, and should not be reproduced or distributed without permission.
