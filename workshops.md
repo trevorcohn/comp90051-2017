@@ -75,6 +75,9 @@ stuff:
     title: Stan Modelling Language 
     worksheet:
       - 11_worksheet.pdf
+      - 11_worksheet.pdf
+      - 11a_worksheet_solution_StanModelling.pdf
+      - 11b_worksheet_solution_VariableElimination.pdf
     show: 1
 ---
 ## Workshops
