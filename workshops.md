@@ -78,6 +78,7 @@ stuff:
       - 11_worksheet.pdf
       - 11a_worksheet_solution_StanModelling.pdf
       - 11b_worksheet_solution_VariableElimination.pdf
+      - 11b_PGMs_eliminationAlgorithm.pdf
     show: 1
 ---
 ## Workshops
